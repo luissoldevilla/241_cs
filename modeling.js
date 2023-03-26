@@ -1,4 +1,8 @@
 // Making Functions
 // Using Vanilla JS
 
-function overview(arr) {}
+function overview(arr) {
+
+}
+
+overview()
