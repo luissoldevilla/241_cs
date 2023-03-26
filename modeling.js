@@ -2,6 +2,7 @@
 // Using Vanilla JS
 
 function overview(arr) {
+    // checking if reaching here
     console.log(arr)
 }
 
