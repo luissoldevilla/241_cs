@@ -8,7 +8,7 @@ function overview(arr) {
     console.log(arr)
     for (let i = 0; i < arr.length; i++) {
         let index1 = arr[i];
-        console.log(index1);
+        console.log(index1++);
         index1++
     }
 }
