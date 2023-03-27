@@ -4,7 +4,7 @@
 function overview(arr) {
     // checking if reaching here
     console.log(arr)
-    for (let i = 0; i < arr.lenght; i++) {
+    for (let i = 0; i < arr.length; i++) {
         let index1 = arr[i];
         console.log(index1);
     }
