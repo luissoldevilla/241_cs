@@ -9,13 +9,8 @@ function overview(arr) {
     for (let i = 0; i < arr.length; i++) {
         let index1 = arr[i];
     }
-    return index1++;
+    // this is not reaching 
+    return index1;
 }
 
-overview([1,2,3,4,5])
-overview([1,2,3,4,5])
-overview([1,2,3,4,5])
-overview([1,2,3,4,5])
-overview([1,2,3,4,5])
-overview([1,2,3,4,5])
 overview([1,2,3,4,5])
