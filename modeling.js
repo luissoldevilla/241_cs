@@ -10,6 +10,7 @@ function overview(arr) {
         let index1 = arr[i];
         console.log(index1)
         console.log(index1)
+        console.log(index1)
     }
 }
 
